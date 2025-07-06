@@ -1,3 +1,129 @@
+@media(max-width:400px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .header{
+        width: 366px;
+    }
+     .header span .bxr{
+        display: flex;
+        position:absolute;
+        top: 22px;
+     }
+    .home .image img{
+        width: 100px;
+  height: 176px;
+  margin-top: -310px;
+    }
+    .home-content .btn-box{
+        margin-top: 23px;
+    }
+    .home-content{
+        margin-top: 47px;
+
+    }
+    .about .about-text{
+        margin-left: 18px;
+    }
+    .about .about-text h2{
+        font-size: 35px;
+       
+    }
+    .about-text{
+        margin-left: 18px;
+    }
+    
+    #about .about-img img{
+        height: 139px;
+    width: 90px;
+    margin-top: 235px;
+        display: none;
+    }
+    .about-text p{
+        font-size: 10px;
+        height: 20px;
+  width: 283px;
+  margin-left: -37px;
+    }
+    .about .about-text h4{
+        margin-left: -38px;
+  font-size: 13px;
+    }
+.sub-title{
+        font-size: 42px;
+  margin-top: -26px;
+  margin-left: -46px;
+
+    }
+    .services-list{
+        margin-left: -38px;
+    }
+    #about .about-text a .btn-box{
+        margin-top: 295px;
+  margin-left: -64px;
+  font-size: 12px;
+    }
+     .about .about-text h2{
+        margin-left: -22px;
+     }
+     .btn-box{
+        margin-top: 156px;
+     }
+      .container1 .heading1{
+        margin-left: 82px;
+        font-size: 25px;
+      }
+       .technical-bars .bar .info span {
+        margin-left: 59px;
+    }
+
+    .technical-bars .bar .info p {
+        margin-left: 59px;
+    }
+
+    .technical-bars .bar .bx {
+        margin-left: 59px;
+    }
+
+    .container1 .Radial-Bars {
+        margin-left: -500px;
+        margin-top: 1062px;
+
+
+    }
+     .technical-bars .bar .progress-line{
+        margin-left: 59px;
+    width: 90px;
+     }
+      .technical-bars .bar .progress-line span{
+        margin-left: 59px;
+      }
+    .container1 .Radial-Bars .radial-bars {
+        width: 96px;
+        margin-left: -53px;
+    }
+    .cards4 .projects{
+        width: 224px;
+    }
+    .projects img{
+        width: 146px;
+        height: 108px;
+    }
+    .project-6 video{
+        width: 146px;
+        height: 108px;
+    }
+    .project-7 video{
+        width: 146px;
+        height: 108px;
+    }
+    .project-8 video{
+        width: 146px;
+        height: 108px;
+    }
+
+}
 /*home responsive css*/
 
 @media(min-width:501px) {
